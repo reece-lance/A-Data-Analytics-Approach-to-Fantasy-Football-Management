@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1634674090 "/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.tex" "/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.pdf" "capstone" 1634674093
+["pdflatex"] 1634674090 "/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.tex" "/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.pdf" "capstone" 1634720198
   "/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux" 1634674092 3666 a8e52105cde421e9f0e09c130d7059df ""
-  "/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.tex" 1634674090 10480 b654c96506131bec69856b85a2a5a639 ""
+  "/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.tex" 1634720198 10480 b654c96506131bec69856b85a2a5a639 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm" 1136768653 1292 bd42be2f344128bff6d35d98474adfe3 ""
@@ -316,17 +316,17 @@
   "capstone.lof" 1634674092 442 970730496d999583750f1b6e0fdc8e88 "pdflatex"
   "capstone.lot" 1634674092 120 4b5392bf4295ae9f4473a7a4fff7fdc5 "pdflatex"
   "capstone.out" 1634674092 1731 9822ccdc59c54d9fbf3b69e03557fed1 "pdflatex"
-  "capstone.tex" 1634674090 10480 b654c96506131bec69856b85a2a5a639 ""
+  "capstone.tex" 1634720198 10480 b654c96506131bec69856b85a2a5a639 ""
   "capstone.toc" 1634674092 814 e49e5ce86a6066b369e8359eaf659015 "pdflatex"
   "essex.png" 1601653609 1503 9f07f173129222a30c483a53fa627759 ""
   "prem_logo.jpeg" 1633882943 39444 8b8ab493bf1cd0d63c6f61323fd6bd4f ""
   (generated)
+  "capstone.aux"
   "/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.pdf"
   "capstone.lof"
-  "capstone.lot"
+  "capstone.pdf"
   "capstone.out"
-  "capstone.aux"
-  "/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.log"
   "capstone.log"
   "capstone.toc"
-  "capstone.pdf"
+  "/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.log"
+  "capstone.lot"
