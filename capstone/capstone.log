@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.30)  10 OCT 2021 22:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.30)  19 OCT 2021 21:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/Capstone_template.tex"
-(/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/Capstone_template.tex
+**"/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.tex"
+(/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
@@ -848,8 +848,8 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip77
-) (/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/Capstone_template.aux)
-\openout1 = `Capstone_template.aux'.
+) (/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux)
+\openout1 = `capstone.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 170.
 LaTeX Font Info:    ... okay on input line 170.
@@ -915,9 +915,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 170.
 LaTeX Info: Redefining \pageref on input line 170.
 LaTeX Info: Redefining \nameref on input line 170.
- (/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/Capstone_template.out) (/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/Capstone_template.out)
+ (/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out) (/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out)
 \@outlinefile=\write5
-\openout5 = `Capstone_template.out'.
+\openout5 = `capstone.out'.
 
 <essex.png, id=71, 103.38625pt x 180.675pt>
 File: essex.png Graphic file (type png)
@@ -963,21 +963,21 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- (/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/Capstone_template.toc)
+ (/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.toc)
 \tf@toc=\write6
-\openout6 = `Capstone_template.toc'.
+\openout6 = `capstone.toc'.
 
  [2
 
-] (/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/Capstone_template.lof)
+] (/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lof)
 \tf@lof=\write7
-\openout7 = `Capstone_template.lof'.
+\openout7 = `capstone.lof'.
 
  [3
 
-] (/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/Capstone_template.lot)
+] (/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lot)
 \tf@lot=\write8
-\openout8 = `Capstone_template.lot'.
+\openout8 = `capstone.lot'.
 
  [4
 
@@ -988,11 +988,20 @@ File: Figure.png Graphic file (type png)
 <use Figure.png>
 Package pdftex.def Info: Figure.png  used on input line 236.
 (pdftex.def)             Requested size: 483.69684pt x 139.92368pt.
+
+LaTeX Warning: Citation `Noether' on page 5 undefined on input line 244.
+
+
+LaTeX Warning: Citation `Noether' on page 5 undefined on input line 246.
+
 [5
 
  </Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/Figure.png>]
+
+LaTeX Warning: Citation `Turing' on page 6 undefined on input line 259.
+
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 267.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1pcr.fd
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1027,25 +1036,33 @@ Appendix A.
 Appendix B.
 [11
 
-] [12
+]
+Underfull \hbox (badness 2318) in paragraph at lines 372--375
+\T1/ppl/m/it/12 (+20) 8 Oc-to-ber 2020, https://medium.com/@frenzelts/fantasy-premier-league-api-endpoints-a-
+ []
 
-] (/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/Capstone_template.aux)
-Package rerunfilecheck Info: File `Capstone_template.out' has not changed.
-(rerunfilecheck)             Checksum: 8CC0B084629B7DE4F527CD44200D2188;1881.
+[12
+
+] (/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux)
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `capstone.out' has not changed.
+(rerunfilecheck)             Checksum: 9822CCDC59C54D9FBF3B69E03557FED1;1731.
  ) 
 Here is how much of TeX's memory you used:
- 29266 strings out of 478994
- 574364 string characters out of 5858184
- 991632 words of memory out of 5000000
- 45811 multiletter control sequences out of 15000+600000
- 447887 words of font info for 176 fonts, out of 8000000 for 9000
+ 29264 strings out of 478994
+ 574130 string characters out of 5858184
+ 991499 words of memory out of 5000000
+ 45810 multiletter control sequences out of 15000+600000
+ 447932 words of font info for 177 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 96i,12n,111p,557b,811s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 96i,12n,111p,548b,811s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/Capstone_template.pdf" (12 pages, 261751 bytes).
+Output written on "/Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.pdf" (12 pages, 261736 bytes).
 PDF statistics:
- 251 PDF objects out of 1000 (max. 8388607)
- 197 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
+ 247 PDF objects out of 1000 (max. 8388607)
+ 193 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
  72396 words of extra memory for PDF output out of 74296 (max. 10000000)
 
