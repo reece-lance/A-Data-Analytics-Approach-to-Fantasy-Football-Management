@@ -8,6 +8,7 @@ general_info_json = fixtures_json = None
 # GENERAL INFO
 # Events
 events_df = events_general_info_df = events_deadline_df = events_user_scored_df = events_user_management_df = None
+previous_event_int = current_event_int = next_event_int = 0
 # Game Settings
 game_settings_full_dict = None
 # Phases
@@ -26,8 +27,12 @@ element_types_df = None
 # FIXTURES
 fixtures_df = fixtures_event_code_df = fixtures_timings_df = fixtures_teams_df = fixtures_scores_df = fixtures_difficulty_df = None
 
+#USEFUL
+upcoming_event_int = 0
+
 # CUSTOM
-team_fdr = None
+team_fdr_df = team_form_df = None
+
 
 def refreshData():
     global general_info_json, fixtures_json
@@ -59,9 +64,12 @@ def createGeneralInfoDataFrames():
     element_types_df = pd.DataFrame(general_info_json['element_types'])
 
 def createEventsDataFrames():
-    global events_df, events_general_info_df, events_deadline_df, events_user_scored_df, events_user_management_df
+    global events_df, events_general_info_df, previous_event_int, current_event_int, next_event_int, events_deadline_df, events_user_scored_df, events_user_management_df
     events_df = pd.DataFrame(general_info_json['events'])
     events_general_info_df = events_df[['id', 'name', 'is_previous', 'is_current', 'is_next', 'finished', 'data_checked']]
+    previous_event_int = events_general_info_df[events_general_info_df.is_previous == True].get('id')
+    current_event_int = events_general_info_df[events_general_info_df.is_current == True].get('id')
+    next_event_int = events_general_info_df[events_general_info_df.is_next == True].get('id')
     events_deadline_df = events_df[['id', 'deadline_time', 'deadline_time_epoch', 'deadline_time_game_offset']]
     events_user_scored_df = events_df[['id', 'average_entry_score', 'highest_scoring_entry', 'highest_score']]
     events_user_management_df = events_df[['id', 'chip_plays', 'most_selected', 'most_transferred_in', 'top_element', 'top_element_info', 'transfers_made', 'most_captained', 'most_vice_captained']]
