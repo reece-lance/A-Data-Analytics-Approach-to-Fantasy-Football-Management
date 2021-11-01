@@ -33,24 +33,24 @@ def addNewData():
     calculateTeamForm()
 
 def calculateTeamFdr():
-    fdr_dict_temp = {'event': [], 'team_id': [], 'fdr': []}
+    fdr_dict_temp = {'event': [], 'team': [], 'fdr': []}
     for team in data.teams_df['id']:
         for event in data.events_df['id']:
             fdr_temp = data.fixtures_df[['event', 'team_h', 'team_h_difficulty', 'team_a', 'team_a_difficulty']]
-            fdr_temp = fdr_temp[(fdr_temp["event"].isin([event, event + 1, event + 2])) & ((fdr_temp["team_h"] == team) | (fdr_temp["team_a"] == team))]
+            fdr_temp = fdr_temp[(fdr_temp["event"].isin([event, event + 1, event + 2])) & ((fdr_temp["team_h"] == team) | (fdr_temp["team_a"] == team))] # next 3 events, if team play
             fdr_count_temp = 0
             fixture_count_temp = 0
             for fixture in fdr_temp.values:
                 fixture_count_temp += 1
-                if fixture[1] == team:
+                if fixture[1] == team: # if home team
                     fdr_count_temp += fixture[2]
-                else:
+                else: # if away team
                     fdr_count_temp += fixture[4]
             fdr_dict_temp.get('event').append(event)
-            fdr_dict_temp.get('team_id').append(team)
+            fdr_dict_temp.get('team').append(team)
             fdr_dict_temp.get('fdr').append(round(fdr_count_temp/fixture_count_temp, 1))
 
-    data.team_fdr_df = pd.DataFrame(fdr_dict_temp).sort_values(by=['event', 'team_id'], ignore_index=True)
+    data.team_fdr_df = pd.DataFrame(fdr_dict_temp).sort_values(by=['event', 'team'], ignore_index=True)
 
 def calculateTeamForm():
     team_form_dict_temp = {'event': [], 'team': [], 'form': []}
@@ -59,22 +59,22 @@ def calculateTeamForm():
     for team in data.teams_df['id']:
         for event in data_checked_events_temp:
             form_temp = data.fixtures_df[['event', 'team_h', 'team_h_score', 'team_h_difficulty', 'team_a', 'team_a_score', 'team_a_difficulty']]
-            form_temp = form_temp[(form_temp['event'].isin([event, event - 1, event - 2, event - 3, event - 4])) & ((form_temp['team_h'] == team) | (form_temp['team_a'] == team))]
+            form_temp = form_temp[(form_temp['event'].isin([event, event - 1, event - 2, event - 3, event - 4])) & ((form_temp['team_h'] == team) | (form_temp['team_a'] == team))] # last 5 events, if team played
             form_count_temp = 0
             for fixture in form_temp.values:
-                if fixture[1] == team:
-                    if fixture[2] > fixture[5]:
+                if fixture[1] == team: # if home team
+                    if fixture[2] > fixture[5]: # home team win
                         form_count_temp += fixture[3]
-                    elif fixture[2] < fixture[5]:
+                    elif fixture[2] < fixture[5]: # home team lose
                         form_count_temp -= fixture[6]
-                    else:
+                    else: # draw
                         form_count_temp += (fixture[3] - 3)
-                elif fixture[4] == team:
-                    if fixture[2] < fixture[5]:
+                elif fixture[4] == team: # if away team
+                    if fixture[2] < fixture[5]: # away team win
                         form_count_temp += fixture[6]
-                    elif fixture[2] > fixture[5]:
+                    elif fixture[2] > fixture[5]: # away team lose
                         form_count_temp -= fixture[3]
-                    else:
+                    else: # draw
                         form_count_temp += (fixture[6] - 3)
         team_form_dict_temp.get('event').append(event)
         team_form_dict_temp.get('team').append(team)

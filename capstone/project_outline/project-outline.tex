@@ -1,27 +1,274 @@
 \documentclass[12pt, a4paper,oneside]{book}
+\newcommand{\re}{\mathrm{e}}
+\newcommand{\ri}{\mathrm{i}}
+\newcommand{\rd}{\mathrm{d}}
+\def\semicolon{\nobreak\mskip2mu\mathpunct{}\nonscript\mkern-\thinmuskip{;}
+\mskip6muplus1mu\relax} % This defines the semicolon command
+
+        % allows index generation
+\usepackage{graphicx}        % standard LaTeX graphics tool
+                             % when including figure files
+\usepackage{multicol}        % used for the two-column index
+
+
+
+
+\usepackage{color,tikz}
+%\usepackage[unicode,bookmarks,bookmarksopen,bookmarksopenlevel=2,colorlinks,linkcolor=blue,citecolor=green]{hyperref}
+
+\usepackage{amsmath,eucal,amssymb}
+\usepackage{mathrsfs,graphicx,texdraw}
+\usepackage{fancyhdr,framed}
+\usepackage{tikz, tikz-3dplot}
+\usepackage{tkz-euclide}
+\usetikzlibrary{decorations.fractals}
+\usetikzlibrary{decorations.footprints}
+
+
+
+
+\usepackage{palatino}
+
+\usepackage[latin1]{inputenc}
+
+\usepackage[T1]{fontenc}
+%\usepackage[dvips]{graphicx}
+%\usepackage{times}
+
+
+\definecolor{prempurple}{HTML}{37003c} % purple
+\definecolor{premgreen}{HTML}{00ff87} % green
+\definecolor{prempink}{HTML}{ff2882} % pink
+
+
+\def\grole{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\displaystyle##$\hfil\cr>\cr\noalign{\vskip-1.5pt}<\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\textstyle##$\hfil\cr
+>\cr\noalign{\vskip-1.5pt}<\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptstyle##$\hfil\cr
+>\cr\noalign{\vskip-1pt}<\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptscriptstyle##$\hfil\cr
+>\cr\noalign{\vskip-0.5pt}<\cr}}}}}
+
+\newenvironment{rcases}
+  {\left.\begin{aligned}}
+  {\end{aligned}\right\rbrace}
+
+\newenvironment{lcases}
+  {\left\lbrace\begin{aligned}}
+  {\end{aligned}\right.}
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{remark}[theorem]{Remark}
+
+\newenvironment{proof}[1][Proof]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}]}{\end{trivlist}}
+\newenvironment{solution}[1][Solution]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}]}{\end{trivlist}}
+
+\newcommand{\qed}{\nobreak \ifvmode \relax \else
+      \ifdim\lastskip<1.5em \hskip-\lastskip
+      \hskip1.5em plus0em minus0.5em \fi \nobreak
+      \vrule height0.75em width0.5em depth0.25em\fi}
+
+\numberwithin{equation}{section}
+\def\Ad{{\mbox{Ad}}}
+\def\im{{\mbox{Im}}}
+\def\Re{{\mbox{Re}\;}}
+\def\ad{\mathrm{ad\,}}
+\def\openone{\leavevmode\hbox{\small1\kern-3.3pt\normalsize1}}
+\def\Res{\mathop{\mbox{Res}\,}\limits}
+\def\biglb{\big[\hspace*{-.7mm}\big[}
+\def\bigrb{\big]\hspace*{-.7mm}\big]}
+
+
+\def\bigrbt{\mathop{\bigrb }\limits_{\widetilde{\;}}}
+\def\biggrbt{\mathop{\biggrb }\limits_{\widetilde{\;}}}
+\def\Bigrbt{\mathop{\Bigrb }\limits_{\widetilde{\;}}}
+\def\Biggrbt{\mathop{\Biggrb }\limits_{\widetilde{\;}}}
+
+\def\bPhi{\mathbf{\Phi}}
+\def\bM{\mathbf{M}}
+\def\bm{\mathbf{m}}
+\def\bbbc{{\Bbb C}}
+\def\bbbr{{\Bbb R}}
+\def\bbbz{{\Bbb Z}}
+\def\bbbs{{\Bbb S}}
+\def\diag{\mbox{diag}\,}
+\def\tr{\mbox{tr}\,}
+
+\textwidth=17cm   \textheight=24.5cm \voffset=-2cm
+
+\evensidemargin=-0.5cm \oddsidemargin=-0.5cm
+
+ \renewcommand{\baselinestretch}{1.5}
+
+%%%%%%%%fancy header%%%%%%%%%%%%%%%%%
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{calc}
+\newlength{\pageoffset}
+\setlength{\pageoffset}{0cm} % use whatever you like
+\fancyheadoffset[LE,RO]{\pageoffset}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+\fancyhf{}
+\fancyhead[LE]{\makebox[\pageoffset][l]{\thepage}\hfill\leftmark}
+\fancyhead[RO]{\rightmark\hfill\makebox[\pageoffset][r]{\thepage}}
+\fancypagestyle{plain}{%
+    \fancyhead{} % get rid of headers
+    \renewcommand{\headrulewidth}{0pt} % and the line
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\arraycolsep=2pt
+
+%%%%Fancy Chapter%%%
+
+%\usepackage{lmodern}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{microtype}
+\usepackage{lipsum}
+
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries\color{prempurple}}
+  {\filleft\hspace*{-60pt}%
+    \rotatebox[origin=c]{90}{%
+      \normalfont\color{prempurple}\Large%
+        \textls[180]{\textsc{\chaptertitlename}}%
+    }\hspace{10pt}%
+    {\setlength\fboxsep{0pt}%
+    \colorbox{prempurple}{\parbox[c][3cm][c]{2.5cm}{%
+      \centering\color{premgreen}\fontsize{80}{90}\selectfont\thechapter}%
+    }}%
+  }
+  {10pt}
+  {\color{premgreen}\titlerule[2.5pt]\vskip3pt
+  \titlerule\vskip10pt\color{prempurple}\LARGE\sffamily}
+
+% hyperref should be loaded after all other packages
+% aliascnt is needed to get \autoref (from hyperref) to work correctly with custom amsthm theorems
+\usepackage{aliascnt}
+\usepackage[colorlinks,linkcolor=prempink,citecolor=premgreen, linktoc=all]{hyperref}
+
+% removes dots in table of contents
+\makeatletter
+\renewcommand\@dotsep{140}   % default value 4.5
+\makeatother
+
+\usepackage{advdate}
+
+\newcommand{\yesterday}{{\AdvanceDate[-1]\today}}
+
+\newcommand{\tomorrow}{{\AdvanceDate[1]\today}}
+
 
 \begin{document}
 
-\title{Project Outline}
-\author{Reece Lance}
 
-\maketitle
+\thispagestyle{empty}
 
-For the following year, I intend to study `A Data Analytics Approach
-to Fantasy Football Management'. For this, I will need to analyse the data
-from the Premier League API, and predict and manage the best teams week
-in week out, using strategies I learn throughout the year. I will also create
-an appealing GUI containing stats on players over the season, show different
-strategies for users to try, and other useful information for the user for ease,
-such as upcoming matches and a league table (similar to the Premier League
-app).
+\begin{minipage}{0.2\textwidth}
+\centerline{\includegraphics[width=.4\textwidth]{essex} }
+\end{minipage}
+\begin{minipage}{0.8\textwidth}
 
-This will involve retrieving data from an API, before analysing and clean
-ing. I plan to do the pre-processing of data using Pandas and Jupyter in
-Python, and apply different models to the data, in order to create the different
-strategies for the user to choose from. I plan to use Java for the front-end
-GUI by running the Python script from Java when necessary. I intend to
-use Java Swing for the GUI, but I will research and review other external
-libraries to ensure I use the most approprite library.
+$ \qquad \qquad \qquad ${\LARGE \bf \sl University of Essex}
+
+{\LARGE \bf Department of Mathematical Sciences}
+
+\end{minipage}
+
+\begin{center}
+
+\noindent\textcolor{prempurple}{\rule{\linewidth}{4.8pt}}
+
+\vspace{1cm}
+
+{\LARGE \sc  MA838: Capstone Project}
+
+\vspace{1.5cm}
+
+{\Huge{A Data Analytics Approach to Fantasy Football Management}}
+
+\vspace{1.5cm}
+
+{\Large \bf Reece Lance}
+
+\vspace{0.5cm}
+
+{\Large \bf 1804752}
+
+\vspace{1.5cm}
+
+\centerline{\includegraphics[width=0.75\textwidth]{prem_logo.jpeg}}
+
+\vspace{1.5cm}
+
+{\Large {Supervisor:} {\bf Dr Andrew Harrison}}
+
+\vspace{.25cm}
+
+\noindent\textcolor{prempurple}{\rule{\linewidth}{4.8pt}}
+
+\vspace{1cm}
+{\Large \today }\\[4pt]
+\end{center}
+\newpage
+
+\chapter{Project Outline}\label{ch:1}
+
+For the following year, I intend to study `A Data Analytics Approach to Fantasy Football
+Management'.
+
+\section{Description}\label{sec:1.1}
+
+This project will involve extensive research into the analytical side of football management,
+proving and disproving theories about the fantasy football game. I will use data analysis
+skills to collect, clean and interpret data from the Premier League, resulting in accurate
+predictions of the best teams and tactics to use throughout the game's course. The final
+product will be an application, with the main functionality of presenting the predictions in an
+effective way for the user to follow. The application will also include other features such as
+showing live scores, league tables and player rating systems, similar to the Premier League
+official website and phone application. It will also be made possible to sign into your Fantasy
+Premier League (FPL) account, to see your current team and any past statistics and history.
+The Capstone will consist of full documentation of my research findings, processes, data
+analysis, predictions and application creation and features.
+
+\section{Process}\label{sec:1.2}
+
+Following the steps of basic data analysis, I will begin by retrieving the raw data in the JSON
+format. Next, I will store and manage the data in Data Frames, splitting the data up where
+necessary. Then I will begin cleaning the data by ensuring there are no missing values, and
+that the data is in the correct data types. The data will then be analysed, and new data created
+in order to improve the predictions. Furthermore, the game rules will then be addressed,
+as the predictions must follow all of the rules and the scoring system to be effective. These
+predictions must then be integrated into Java to be used in the application. Moreover, in Java
+I will produce the application to present the results, including any additional features. Also
+in Java, I will create a login page in order for users with an FPL account to have access to their
+data and statistics. I will ensure that the account details are secure. To prove the success of
+the prediction and application, I will have users test the application and assess some markers
+(these will be decided later). To test the prediction accuracy, we can test the program from
+the start of the season and assess how accurate the predictions are.
+
+\section{Languages and Libraries}\label{sec:1.3}
+
+The back-end of the program will be written in Python, using some external libraries; the
+front-end of the application will be written in Java. The data that will be used is from the
+Fantasy Premier League API and will be retieved using `requests', a Python HTTP library.
+When the data is retrieved, a local version of the data will be saved or updated for when
+the API cannot be accessed; this will be in a JSON file. To clean and manipulate the data I
+will use `Pandas', and for the analysis, `matplotlib'. The application's GUI (Graphical User
+Interface) will be written using the Java library `Swing', with the help of the `Swing Form
+Designer' in `IntelliJ IDEA'.
 
 \end{document}

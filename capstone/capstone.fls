@@ -1,9 +1,9 @@
-PWD /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone
+PWD /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone
 INPUT /usr/local/texlive/2021/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.tex
-OUTPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.log
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.tex
+OUTPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.log
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/book.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/book.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/book.cls
@@ -567,7 +567,7 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
-OUTPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.pdf
+OUTPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.pdf
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
@@ -1273,10 +1273,10 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux
-OUTPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux
+OUTPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -1338,21 +1338,21 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestri
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
-OUTPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/essex.png
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/essex.png
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/essex.png
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/essex.png
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
+OUTPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/essex.png
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/essex.png
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/essex.png
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/essex.png
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-cmr.cfg
@@ -1404,11 +1404,11 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplrc8t.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplr8t.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplr8t.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplb8t.tfm
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/prem_logo.jpeg
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/prem_logo.jpeg
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/prem_logo.jpeg
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/prem_logo.jpeg
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/prem_logo.jpeg
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/prem_logo.jpeg
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/prem_logo.jpeg
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/prem_logo.jpeg
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/prem_logo.jpeg
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/prem_logo.jpeg
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/vf/adobe/palatino/pplro8t.vf
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplro8r.tfm
 INPUT /usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -1429,27 +1429,27 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1phv.fd
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1phv.fd
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1phv.fd
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.toc
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.toc
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.toc
-OUTPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.toc
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.toc
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.toc
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.toc
+OUTPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.toc
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/vf/adobe/helvetic/phvb8t.vf
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/vf/adobe/palatino/pplb8t.vf
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/vf/adobe/palatino/pplr8t.vf
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lof
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lof
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lof
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lof
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lof
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lof
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
-OUTPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lof
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lot
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lot
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lot
-OUTPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lot
+OUTPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lof
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lot
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lot
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lot
+OUTPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lot
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplr8t.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplrc8t.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplrc8t.tfm
@@ -1466,10 +1466,10 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm1
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplb8t.tfm
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/Figure.png
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/Figure.png
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/Figure.png
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/Figure.png
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/Figure.png
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/Figure.png
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/Figure.png
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/Figure.png
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplr8t.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplri8t.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/vf/adobe/palatino/pplrc8t.vf
@@ -1495,9 +1495,9 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/vf/adobe/courier/pcrr8t.vf
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/vf/adobe/palatino/pplr8t.vf
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
-INPUT /Users/reecelance/Desktop/University/Year 3/MA838 - Capstone Project/Project/Environment 1/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
+INPUT /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
