@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.28)  31 OCT 2021 13:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.17)  14 APR 2022 23:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.tex
-(/Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.tex
+**/Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.tex
+(/Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
@@ -110,6 +110,10 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \mult@nat@firstbox=\box91
 \colbreak@box=\box92
 \mc@col@check@num=\count197
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language87
+LaTeX Info: Redefining \_ on input line 43.
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
  (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -678,9 +682,7 @@ Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR)
 Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks38
 \inpenc@posthook=\toks39
- (/usr/local/texlive/2021/texmf-dist/tex/latex/base/latin1.def
-File: latin1.def 2020/08/01 v1.3d Input encoding file
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+ppl on input line 112.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1ppl.fd
@@ -703,10 +705,10 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \pageoffset=\skip73
 
 
-Package fancyhdr Warning: \fancyheadoffset's `E' option without twoside option is useless on input line 118.
+Package fancyhdr Warning: \fancyheadoffset's `E' option without twoside option is useless on input line 119.
 
 
-Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 122.
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 123.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
@@ -848,27 +850,34 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip77
-) (/Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux)
+) (/Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux
+
+LaTeX Warning: Label `sec:5.1' multiply defined.
+
+
+LaTeX Warning: Label `Team in pitch view' multiply defined.
+
+)
 \openout1 = `capstone.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
  (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count362
@@ -888,21 +897,21 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Redefining \microtypecontext on input line 170.
+LaTeX Info: Redefining \microtypecontext on input line 171.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 170.
+LaTeX Info: Redefining \showhyphens on input line 171.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-Package hyperref Info: Link coloring ON on input line 170.
+Package hyperref Info: Link coloring ON on input line 171.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -912,50 +921,50 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count368
 )
-LaTeX Info: Redefining \ref on input line 170.
-LaTeX Info: Redefining \pageref on input line 170.
-LaTeX Info: Redefining \nameref on input line 170.
- (/Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out) (/Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out)
+LaTeX Info: Redefining \ref on input line 171.
+LaTeX Info: Redefining \pageref on input line 171.
+LaTeX Info: Redefining \nameref on input line 171.
+ (/Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out) (/Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.out)
 \@outlinefile=\write5
 \openout5 = `capstone.out'.
 
-<essex.png, id=71, 103.38625pt x 180.675pt>
-File: essex.png Graphic file (type png)
-<use essex.png>
-Package pdftex.def Info: essex.png  used on input line 176.
+<images/title-page/essex.png, id=167, 103.38625pt x 180.675pt>
+File: images/title-page/essex.png Graphic file (type png)
+<use images/title-page/essex.png>
+Package pdftex.def Info: images/title-page/essex.png  used on input line 177.
 (pdftex.def)             Requested size: 38.69455pt x 67.62337pt.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 177.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 178.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 177.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 178.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 177.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 178.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Overfull \hbox (19.90483pt too wide) in paragraph at lines 175--185
+Overfull \hbox (19.90483pt too wide) in paragraph at lines 176--186
 []$[]$ $[]$ 
  []
 
-<prem_logo.jpeg, id=73, 1606.0pt x 823.075pt>
-File: prem_logo.jpeg Graphic file (type jpg)
-<use prem_logo.jpeg>
-Package pdftex.def Info: prem_logo.jpeg  used on input line 208.
+<images/title-page/prem_logo.jpeg, id=169, 1606.0pt x 823.075pt>
+File: images/title-page/prem_logo.jpeg Graphic file (type jpg)
+<use images/title-page/prem_logo.jpeg>
+Package pdftex.def Info: images/title-page/prem_logo.jpeg  used on input line 209.
 (pdftex.def)             Requested size: 362.77263pt x 185.91231pt.
 [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/essex.png> </Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/prem_logo.jpeg>]
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 222.
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/title-page/essex.png> </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/title-page/prem_logo.jpeg>]
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 223.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
@@ -963,51 +972,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- (/Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.toc)
+ (/Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.toc [2
+
+])
 \tf@toc=\write6
 \openout6 = `capstone.toc'.
 
- [2
-
-] (/Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lof)
-\tf@lof=\write7
-\openout7 = `capstone.lof'.
-
- [3
-
-] (/Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.lot)
-\tf@lot=\write8
-\openout8 = `capstone.lot'.
-
- [4
-
-]
-Chapter 1.
-<Figure.png, id=133, 523.9575pt x 151.56625pt>
-File: Figure.png Graphic file (type png)
-<use Figure.png>
-Package pdftex.def Info: Figure.png  used on input line 236.
-(pdftex.def)             Requested size: 483.69684pt x 139.92368pt.
-
-LaTeX Warning: Citation `Noether' on page 5 undefined on input line 244.
-
-
-LaTeX Warning: Citation `Noether' on page 5 undefined on input line 246.
-
-[5
-
- </Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/Figure.png>]
-
-LaTeX Warning: Citation `Turing' on page 6 undefined on input line 259.
-
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 267.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `pcr' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1016,53 +986,902 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6]
+[3]
+Chapter 1.
+[4
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5]
 Chapter 2.
-[7
+[6
 
 ]
-Chapter 3.
-[8
+Underfull \hbox (badness 10000) in paragraph at lines 257--261
 
-]
-Chapter 4.
-[9
-
-]
-Appendix A.
-[10
-
-]
-Appendix B.
-[11
-
-]
-Underfull \hbox (badness 2318) in paragraph at lines 359--362
-\T1/ppl/m/it/12 (+20) 8 Oc-to-ber 2020, https://medium.com/@frenzelts/fantasy-premier-league-api-endpoints-a-
  []
 
-[12
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 265.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
 
-] (/Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux)
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11]
+Overfull \vbox (11.39876pt too high) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12]
+Chapter 3.
+[13
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16]
+Chapter 4.
+[17
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[21]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[22]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[23]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[24]
+Underfull \hbox (badness 5862) in paragraph at lines 986--987
+[]\T1/ppl/m/it/12 (+20) data.players_-df['full_-name'] = data.players_-df.apply(lambda x: get_-full_-name_-play-erdf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1003--1004
+[]\T1/ppl/m/it/12 (+20) data.gameweek_-fix-ture_-df['team_-points'] = data.gameweek_-fix-ture_-df.apply(lambda x:
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[25]
+Overfull \hbox (13.78969pt too wide) in paragraph at lines 1037--1038
+[]\T1/ppl/m/it/12 (-20) data.gameweek_-fix-ture_-df['opponent_-points'] = data.gameweek_-fix-ture_-df.team_-points.apply(lambda
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[26]
+Chapter 5.
+<images/prediction/pre-analysis/avg-total-points-per-pos.png, id=415, 376.40625pt x 248.93pt>
+File: images/prediction/pre-analysis/avg-total-points-per-pos.png Graphic file (type png)
+<use images/prediction/pre-analysis/avg-total-points-per-pos.png>
+Package pdftex.def Info: images/prediction/pre-analysis/avg-total-points-per-pos.png  used on input line 1112.
+(pdftex.def)             Requested size: 290.22105pt x 191.94637pt.
+[27
+
+]
+<images/prediction/pre-analysis/avg-value-season-per-pos.png, id=423, 369.38pt x 250.9375pt>
+File: images/prediction/pre-analysis/avg-value-season-per-pos.png Graphic file (type png)
+<use images/prediction/pre-analysis/avg-value-season-per-pos.png>
+Package pdftex.def Info: images/prediction/pre-analysis/avg-value-season-per-pos.png  used on input line 1142.
+(pdftex.def)             Requested size: 290.22105pt x 197.16249pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[28 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/prediction/pre-analysis/avg-total-points-per-pos.png>]
+<images/prediction/pre-analysis/avg-corr-with-total-points-seasonal.png, id=432, 376.40625pt x 265.99374pt>
+File: images/prediction/pre-analysis/avg-corr-with-total-points-seasonal.png Graphic file (type png)
+<use images/prediction/pre-analysis/avg-corr-with-total-points-seasonal.png>
+Package pdftex.def Info: images/prediction/pre-analysis/avg-corr-with-total-points-seasonal.png  used on input line 1156.
+(pdftex.def)             Requested size: 290.22105pt x 205.10397pt.
+
+Underfull \hbox (badness 2269) in paragraph at lines 1161--1162
+\T1/ppl/m/n/12 (+20) 'ict_-in-dex', 'in-flu-ence', 'min-utes', 'own_-goals', 'penal-ties_-missed', 'penal-ties_-saved',
+ []
+
+
+Underfull \hbox (badness 3635) in paragraph at lines 1161--1162
+\T1/ppl/m/n/12 (+20) 'points_-per_-game', 'red_-cards', 'saves', 'se-lected_-by_-per-cent', 'team_-code', 'threat',
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1161--1162
+\T1/ppl/m/n/12 (+20) 'prev_-to-tal_-points', 'trans-fers_-in', 'trans-fers_-out', 'value_-sea-son', 'yel-low_-cards',
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[29 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/prediction/pre-analysis/avg-value-season-per-pos.png> </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/prediction/pre-analysis/avg-corr-with-total-points-seasonal.png>]
+<images/prediction/pre-analysis/total-points-correlation.png, id=440, 720.6925pt x 428.60126pt>
+File: images/prediction/pre-analysis/total-points-correlation.png Graphic file (type png)
+<use images/prediction/pre-analysis/total-points-correlation.png>
+Package pdftex.def Info: images/prediction/pre-analysis/total-points-correlation.png  used on input line 1176.
+(pdftex.def)             Requested size: 483.69684pt x 287.65837pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[30 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/prediction/pre-analysis/total-points-correlation.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1193
+[]\T1/ppl/m/it/12 (+20) data.current_-sea-son_-player_-df = data.players_-df[data.players_-df.season ==
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1194--1195
+[]\T1/ppl/m/it/12 (+20) data.previous_-sea-son_-player_-df = data.players_-df[data.players_-df.season ==
+ []
+
+
+Overfull \hbox (0.63771pt too wide) in paragraph at lines 1204--1205
+[]\T1/ppl/m/it/12 (-20) data.previous_-sea-son_-player_-df = data.previous_-sea-son_-player_-df[data.previous_-sea-son_-player_-df
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1214--1215
+[]\T1/ppl/m/it/12 (+20) available_-play-ers_-df.prev_-to-tal_-points = avail-able_-play-ers_-df.groupby(['position',
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[31]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[32]
+
+LaTeX Warning: Hyper reference `sec:2.3.1' on page 33 undefined on input line 1279.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[33]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[34]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[35]
+<images/prediction/starting-team/starting-xi.png, id=482, 622.325pt x 172.645pt>
+File: images/prediction/starting-team/starting-xi.png Graphic file (type png)
+<use images/prediction/starting-team/starting-xi.png>
+Package pdftex.def Info: images/prediction/starting-team/starting-xi.png  used on input line 1400.
+(pdftex.def)             Requested size: 483.69684pt x 134.18835pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[36 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/prediction/starting-team/starting-xi.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1436--1439
+[]\T1/ppl/m/it/12 (+20) lin_-reg = Lin-ear-Regres-sion() lin_-reg.fit(data.X_-train, data.y_-train)
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[37]
+<images/prediction/weekly-transfers/transfer-list.png, id=498, 707.64375pt x 514.92375pt>
+File: images/prediction/weekly-transfers/transfer-list.png Graphic file (type png)
+<use images/prediction/weekly-transfers/transfer-list.png>
+Package pdftex.def Info: images/prediction/weekly-transfers/transfer-list.png  used on input line 1454.
+(pdftex.def)             Requested size: 386.95894pt x 281.57466pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[38 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/prediction/weekly-transfers/transfer-list.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1462--1464
+[]\T1/ppl/m/it/12 (+20) team_-df.loc[team_-df.full_-name == team_-df[team_-df['position'] !=
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1462--1464
+\T1/ppl/m/it/12 (+20) 1].sort_-val-ues("prev_-to-tal_-points", as-cend-ing = False).head(1).full_-name.values[0],
+ []
+
+
+Underfull \hbox (badness 7740) in paragraph at lines 1462--1464
+\T1/ppl/m/it/12 (+20) 'is_-cap-tain'] = True team_-df.loc[team_-df.full_-name == team_-df[team_-df['is_-cap-tain'] ==
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1462--1464
+\T1/ppl/m/it/12 (+20) False].sort_-val-ues("prev_-to-tal_-points", as-cend-ing = False).head(1).full_-name.values[0],
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[39]
+Chapter 6.
+<images/gui/design/wire_frame.jpg, id=510, 3126.68124pt x 2183.15625pt>
+File: images/gui/design/wire_frame.jpg Graphic file (type jpg)
+<use images/gui/design/wire_frame.jpg>
+Package pdftex.def Info: images/gui/design/wire_frame.jpg  used on input line 1494.
+(pdftex.def)             Requested size: 362.77263pt x 253.27295pt.
+[40
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[41 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/design/wire_frame.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[42]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[43]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[44]
+<images/gui/main/main-frame.png, id=542, 868.74562pt x 61.22874pt>
+File: images/gui/main/main-frame.png Graphic file (type png)
+<use images/gui/main/main-frame.png>
+Package pdftex.def Info: images/gui/main/main-frame.png  used on input line 1620.
+(pdftex.def)             Requested size: 483.69684pt x 34.09164pt.
+<images/gui/theme/dark-mode-button.png, id=544, 272.01625pt x 124.465pt>
+File: images/gui/theme/dark-mode-button.png Graphic file (type png)
+<use images/gui/theme/dark-mode-button.png>
+Package pdftex.def Info: images/gui/theme/dark-mode-button.png  used on input line 1632.
+(pdftex.def)             Requested size: 362.77263pt x 165.99976pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[45 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/main/main-frame.png>]
+<images/gui/theme/light-mode-button.png, id=552, 270.00874pt x 123.46124pt>
+File: images/gui/theme/light-mode-button.png Graphic file (type png)
+<use images/gui/theme/light-mode-button.png>
+Package pdftex.def Info: images/gui/theme/light-mode-button.png  used on input line 1642.
+(pdftex.def)             Requested size: 362.77263pt x 165.88177pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[46 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/theme/dark-mode-button.png> </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/theme/light-mode-button.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[47]
+<images/gui/fantasy-tab/fantasy-tab-swing-designer.png, id=571, 1770.615pt x 3384.645pt>
+File: images/gui/fantasy-tab/fantasy-tab-swing-designer.png Graphic file (type png)
+<use images/gui/fantasy-tab/fantasy-tab-swing-designer.png>
+Package pdftex.def Info: images/gui/fantasy-tab/fantasy-tab-swing-designer.png  used on input line 1716.
+(pdftex.def)             Requested size: 290.22105pt x 554.77551pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[48 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fantasy-tab/fantasy-tab-swing-designer.png>]
+<images/gui/fantasy-tab/output.png, id=579, 1734.48pt x 1083.04625pt>
+File: images/gui/fantasy-tab/output.png Graphic file (type png)
+<use images/gui/fantasy-tab/output.png>
+Package pdftex.def Info: images/gui/fantasy-tab/output.png  used on input line 1728.
+(pdftex.def)             Requested size: 483.69684pt x 302.02797pt.
+<images/gui/fantasy-tab/player-form.png, id=580, 144.54pt x 148.555pt>
+File: images/gui/fantasy-tab/player-form.png Graphic file (type png)
+<use images/gui/fantasy-tab/player-form.png>
+Package pdftex.def Info: images/gui/fantasy-tab/player-form.png  used on input line 1740.
+(pdftex.def)             Requested size: 120.92421pt x 124.28212pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[49 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fantasy-tab/output.png> </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fantasy-tab/player-form.png>]
+<images/gui/fantasy-tab/player.png, id=592, 207.77625pt x 194.7275pt>
+File: images/gui/fantasy-tab/player.png Graphic file (type png)
+<use images/gui/fantasy-tab/player.png>
+Package pdftex.def Info: images/gui/fantasy-tab/player.png  used on input line 1752.
+(pdftex.def)             Requested size: 120.92421pt x 113.32828pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[50 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fantasy-tab/player.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[51]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[52]
+<images/gui/fantasy-tab/team-pitch-view.png, id=612, 1423.3175pt x 844.15375pt>
+File: images/gui/fantasy-tab/team-pitch-view.png Graphic file (type png)
+<use images/gui/fantasy-tab/team-pitch-view.png>
+Package pdftex.def Info: images/gui/fantasy-tab/team-pitch-view.png  used on input line 1911.
+(pdftex.def)             Requested size: 483.69684pt x 286.86679pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[53]
+<images/gui/fantasy-tab/team-list-view.png, id=621, 1424.32124pt x 843.15pt>
+File: images/gui/fantasy-tab/team-list-view.png Graphic file (type png)
+<use images/gui/fantasy-tab/team-list-view.png>
+Package pdftex.def Info: images/gui/fantasy-tab/team-list-view.png  used on input line 1925.
+(pdftex.def)             Requested size: 483.69684pt x 286.3327pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[54 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fantasy-tab/team-pitch-view.png>]
+<images/gui/fantasy-tab/team-list-view-sorted.png, id=628, 1422.31375pt x 840.13875pt>
+File: images/gui/fantasy-tab/team-list-view-sorted.png Graphic file (type png)
+<use images/gui/fantasy-tab/team-list-view-sorted.png>
+Package pdftex.def Info: images/gui/fantasy-tab/team-list-view-sorted.png  used on input line 1939.
+(pdftex.def)             Requested size: 483.69684pt x 285.70749pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[55 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fantasy-tab/team-list-view.png>]
+<images/gui/fantasy-tab/team-list-view-columns-moved.png, id=636, 1422.31375pt x 844.15375pt>
+File: images/gui/fantasy-tab/team-list-view-columns-moved.png Graphic file (type png)
+<use images/gui/fantasy-tab/team-list-view-columns-moved.png>
+Package pdftex.def Info: images/gui/fantasy-tab/team-list-view-columns-moved.png  used on input line 1953.
+(pdftex.def)             Requested size: 483.69684pt x 287.07288pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[56 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fantasy-tab/team-list-view-sorted.png>]
+<images/gui/fantasy-tab/stats-tables.png, id=643, 306.14375pt x 844.15375pt>
+File: images/gui/fantasy-tab/stats-tables.png Graphic file (type png)
+<use images/gui/fantasy-tab/stats-tables.png>
+Package pdftex.def Info: images/gui/fantasy-tab/stats-tables.png  used on input line 1965.
+(pdftex.def)             Requested size: 145.11052pt x 400.12708pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[57 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fantasy-tab/team-list-view-columns-moved.png>]
+<images/gui/fantasy-tab/Gameweek-label-and-buttons.png, id=650, 938.50626pt x 32.12pt>
+File: images/gui/fantasy-tab/Gameweek-label-and-buttons.png Graphic file (type png)
+<use images/gui/fantasy-tab/Gameweek-label-and-buttons.png>
+Package pdftex.def Info: images/gui/fantasy-tab/Gameweek-label-and-buttons.png  used on input line 1979.
+(pdftex.def)             Requested size: 483.69684pt x 16.55397pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[58 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fantasy-tab/stats-tables.png> </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fantasy-tab/Gameweek-label-and-buttons.png>]
+<images/gui/fantasy-tab/sign-in.png, id=658, 1000.73875pt x 58.2175pt>
+File: images/gui/fantasy-tab/sign-in.png Graphic file (type png)
+<use images/gui/fantasy-tab/sign-in.png>
+Package pdftex.def Info: images/gui/fantasy-tab/sign-in.png  used on input line 1995.
+(pdftex.def)             Requested size: 483.69684pt x 28.13861pt.
+<images/gui/fantasy-tab/signed-in.png, id=659, 992.70876pt x 62.2325pt>
+File: images/gui/fantasy-tab/signed-in.png Graphic file (type png)
+<use images/gui/fantasy-tab/signed-in.png>
+Package pdftex.def Info: images/gui/fantasy-tab/signed-in.png  used on input line 2005.
+(pdftex.def)             Requested size: 483.69684pt x 30.32326pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[59 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fantasy-tab/sign-in.png> </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fantasy-tab/signed-in.png>]
+<images/gui/fantasy-tab/incorrect-manager-id.png, id=672, 990.70125pt x 54.2025pt>
+File: images/gui/fantasy-tab/incorrect-manager-id.png Graphic file (type png)
+<use images/gui/fantasy-tab/incorrect-manager-id.png>
+Package pdftex.def Info: images/gui/fantasy-tab/incorrect-manager-id.png  used on input line 2067.
+(pdftex.def)             Requested size: 483.69684pt x 26.4635pt.
+<images/gui/fantasy-tab/unclickable-tab.png, id=673, 216.81pt x 47.17625pt>
+File: images/gui/fantasy-tab/unclickable-tab.png Graphic file (type png)
+<use images/gui/fantasy-tab/unclickable-tab.png>
+Package pdftex.def Info: images/gui/fantasy-tab/unclickable-tab.png  used on input line 2079.
+(pdftex.def)             Requested size: 241.84842pt x 52.62682pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[60 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fantasy-tab/incorrect-manager-id.png> </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fantasy-tab/unclickable-tab.png>]
+<images/gui/players-tab/light.png, id=685, 1734.48pt x 1083.04625pt>
+File: images/gui/players-tab/light.png Graphic file (type png)
+<use images/gui/players-tab/light.png>
+Package pdftex.def Info: images/gui/players-tab/light.png  used on input line 2095.
+(pdftex.def)             Requested size: 483.69684pt x 302.02797pt.
+<images/gui/players-tab/dark.png, id=686, 1733.47626pt x 1083.04625pt>
+File: images/gui/players-tab/dark.png Graphic file (type png)
+<use images/gui/players-tab/dark.png>
+Package pdftex.def Info: images/gui/players-tab/dark.png  used on input line 2105.
+(pdftex.def)             Requested size: 483.69684pt x 302.19322pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[61 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/players-tab/light.png>]
+<images/gui/league-table-tab/light.png, id=697, 1734.48pt x 1083.04625pt>
+File: images/gui/league-table-tab/light.png Graphic file (type png)
+<use images/gui/league-table-tab/light.png>
+Package pdftex.def Info: images/gui/league-table-tab/light.png  used on input line 2119.
+(pdftex.def)             Requested size: 483.69684pt x 302.02797pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[62 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/players-tab/dark.png>]
+<images/gui/league-table-tab/dark.png, id=704, 1734.48pt x 1083.04625pt>
+File: images/gui/league-table-tab/dark.png Graphic file (type png)
+<use images/gui/league-table-tab/dark.png>
+Package pdftex.def Info: images/gui/league-table-tab/dark.png  used on input line 2129.
+(pdftex.def)             Requested size: 483.69684pt x 302.02797pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[63 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/league-table-tab/light.png> </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/league-table-tab/dark.png>]
+<images/gui/results-tab/light.png, id=712, 1734.48pt x 1084.05pt>
+File: images/gui/results-tab/light.png Graphic file (type png)
+<use images/gui/results-tab/light.png>
+Package pdftex.def Info: images/gui/results-tab/light.png  used on input line 2145.
+(pdftex.def)             Requested size: 483.69684pt x 302.30788pt.
+<images/gui/results-tab/dark.png, id=713, 1734.48pt x 1083.04625pt>
+File: images/gui/results-tab/dark.png Graphic file (type png)
+<use images/gui/results-tab/dark.png>
+Package pdftex.def Info: images/gui/results-tab/dark.png  used on input line 2155.
+(pdftex.def)             Requested size: 483.69684pt x 302.02797pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[64 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/results-tab/light.png>]
+<images/gui/fixtures-tab/light.png, id=724, 1734.48pt x 1083.04625pt>
+File: images/gui/fixtures-tab/light.png Graphic file (type png)
+<use images/gui/fixtures-tab/light.png>
+Package pdftex.def Info: images/gui/fixtures-tab/light.png  used on input line 2169.
+(pdftex.def)             Requested size: 483.69684pt x 302.02797pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[65 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/results-tab/dark.png>]
+<images/gui/fixtures-tab/dark.png, id=731, 1734.48pt x 1083.04625pt>
+File: images/gui/fixtures-tab/dark.png Graphic file (type png)
+<use images/gui/fixtures-tab/dark.png>
+Package pdftex.def Info: images/gui/fixtures-tab/dark.png  used on input line 2179.
+(pdftex.def)             Requested size: 483.69684pt x 302.02797pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[66 </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fixtures-tab/light.png> </Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/images/gui/fixtures-tab/dark.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[67]
+Chapter 7.
+[68
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[69]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[70]
+Chapter 8.
+[71
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2255--2258
+[]\T1/ppl/m/n/12 (+20) Premier League.  `Statis-tics Ex-plained'.  \T1/ppl/m/it/12 (+20) Pre-mier League,
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 2260--2263
+[]\T1/ppl/m/n/12 (+20) IBM Cloud Ed-u-ca-tion.  `Ap-pli-ca-tion Pro-gram-ming In-ter-face (API)'.  \T1/ppl/m/it/12 (+20) IMB,
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 2265--2268
+[]\T1/ppl/m/n/12 (+20) Unknown.  `Re-quests: HTTP for Hu-mans'.  \T1/ppl/m/it/12 (+20) Re-quests http for hu-mans,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2270--2273
+[]\T1/ppl/m/n/12 (+20) Unknown.  `Data Pre-pro-cess-ing'.  \T1/ppl/m/it/12 (+20) techo-pe-dia, 11 July 2021,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2270--2273
+\T1/ppl/m/it/12 (+20) https://www.techopedia.com/definition/14650/data-preprocessing. [Last ac-cessed: 15
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2275--2278
+[]\T1/ppl/m/n/12 (+20) Rajaratne, Ma-nee-sha.  `Data Pre Pro-cess-ing Tech-niques
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2275--2278
+\T1/ppl/m/n/12 (+20) You Should Know'.  \T1/ppl/m/it/12 (+20) to-wards data sci-ence, 2 De-cem-ber 2018,
+ []
+
+
+Overfull \hbox (7.7308pt too wide) in paragraph at lines 2275--2278
+\T1/ppl/m/it/12 (-20) https://towardsdatascience.com/data-pre-processing-techniques-you-should-know-8954662716d6. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2280--2283
+[]\T1/ppl/m/n/12 (+20) Timothy, Fren-zel.  `Fan-tasy Pre-mier League API
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2280--2283
+\T1/ppl/m/n/12 (+20) End-points: A De-tailed Guide'.  \T1/ppl/m/it/12 (+20) Medium, 8 Oc-to-ber 2020,
+ []
+
+
+Overfull \hbox (28.10945pt too wide) in paragraph at lines 2280--2283
+\T1/ppl/m/it/12 (-20) https://medium.com/@frenzelts/fantasy-premier-league-api-endpoints-a-detailed-guide-acbd5598eb19. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2285--2288
+[]\T1/ppl/m/n/12 (+20) Rob Hruska and Ravi.  `How to get HTTP re-sponse code
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2285--2288
+\T1/ppl/m/n/12 (+20) for a URL in Java?'.  \T1/ppl/m/it/12 (+20) Stack over-flow, 4 Febru-ary 2018,
+ []
+
+
+Overfull \hbox (81.32568pt too wide) in paragraph at lines 2295--2298
+[]\T1/ppl/m/n/12 (-20) Unknown.  `pan-das.Series.map'.  \T1/ppl/m/it/12 (-20) Pan-das, https://pandas.pydata.org/docs/reference/api/pandas.Series.map.html. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2300--2303
+[]\T1/ppl/m/n/12 (+20) Unknown.  `Python unide-code.unidecode() Ex-am-ples'.  \T1/ppl/m/it/12 (+20) Unide-code,
+ []
+
+[72
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2305--2308
+[]\T1/ppl/m/n/12 (+20) Gavin Ng.  `FPL-prediction-and-selection'.  \T1/ppl/m/it/12 (+20) Kag-gle,
+ []
+
+
+Overfull \hbox (33.3605pt too wide) in paragraph at lines 2315--2318
+[]\T1/ppl/m/n/12 (-20) Unknown.  `The lp-Prob-lem Class'.  \T1/ppl/m/it/12 (-20) PuLP, https://www.coin-or.org/PuLP/pulp.html#pulp.LpProblem. 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[73] (/Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `capstone.out' has not changed.
-(rerunfilecheck)             Checksum: 231A214B6D47F6BE13DAD15B689B8180;1688.
+(rerunfilecheck)             Checksum: E822055D333D8E3F4391244A17BB9B15;4210.
  ) 
 Here is how much of TeX's memory you used:
- 29264 strings out of 478994
- 572988 string characters out of 5858183
- 991499 words of memory out of 5000000
- 45810 multiletter control sequences out of 15000+600000
- 447932 words of font info for 177 fonts, out of 8000000 for 9000
+ 29783 strings out of 478994
+ 583545 string characters out of 5858184
+ 997085 words of memory out of 5000000
+ 46004 multiletter control sequences out of 15000+600000
+ 448682 words of font info for 250 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 96i,12n,111p,486b,811s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on /Users/rachelbrandrith/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.pdf (12 pages, 261565 bytes).
+ 96i,13n,111p,1053b,527s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on /Users/reecelance/Desktop/a-data-analytics-approach-to-fantasy-football-management/capstone/capstone.pdf (73 pages, 8334362 bytes).
 PDF statistics:
- 247 PDF objects out of 1000 (max. 8388607)
- 193 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 72396 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 858 PDF objects out of 1000 (max. 8388607)
+ 689 compressed objects within 7 object streams
+ 207 named destinations out of 1000 (max. 500000)
+ 64551 words of extra memory for PDF output out of 74296 (max. 10000000)
 

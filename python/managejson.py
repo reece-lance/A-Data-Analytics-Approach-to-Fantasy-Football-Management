@@ -2,11 +2,18 @@ import json
 
 # fetches locally stored data from json file
 def fetchStoredData(fileName):
-    file = open(fileName)
-    return json.load(file) # returns json data
+    try:
+        file = open(fileName)
+        return json.load(file) # returns json data
+    except:
+        return {}
 
 # stores data locally in json file
-def storeData(data, fileName):
-    file = open(fileName, "w") # opens file and prepares to write
-    file.write(json.dumps(data)) # writes json data to json file
-    file.close()
+def storeJson(data, fileDir):
+    writeToFile(json.dumps(data), fileDir) # converts data to json type and writes to file
+
+# stores data locally at file directory
+def writeToFile(data, fileDir):
+    file = open(fileDir, "w") # opens file and prepares to write
+    file.write(data) # writes data to file
+    file.close() # cloces file
